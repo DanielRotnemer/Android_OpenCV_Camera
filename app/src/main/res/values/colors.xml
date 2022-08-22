@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00aaee</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#353535</color>
+    <color name="logButtonBackground">#FFFFFF</color>
+    <color name="activityBackground">#EEEEEE</color>
+    <color name="cursorColor">#454545</color>
+    <color name="ovescroll">#00000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="theme_color">#FFFFFF</color>
+    <color name="dark_color">#000000</color>
+    <color name="light_dark_color">#303030</color>
+</resources>

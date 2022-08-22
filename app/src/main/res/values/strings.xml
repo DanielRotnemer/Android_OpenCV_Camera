@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Moviera</string>
+    <string name="signupSwitchText"> Don\'t have an account? Create account </string>
+    <string name="loginSwitchText"> Have an account? Log in </string>
+    <string name="terms">By signing up, I agree to Moviera\'s Terms of service and Privacy policy.</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="yourAccounts">Your accounts</string>
+    <string name="following">Following</string>
+    <string name="stories">Stories</string>
+    <string name="live">Live</string>
+    <string name="popular">Popular</string>
+    <string name="commentHint">Comment here</string>
+    <string name="loginTitle">Log in to Dating</string>
+    <string name="signupTitle">Sign up to Dating</string>
+    <string name="useRecentAccounts">Use recently used accounts</string>
+    <string name="poorInternetConnection">Poor internet connection</string>
+    <string name="loginSucceeded">Login succeeded</string>
+
+    <string name="exit_no_sensor">Did not find sensors in device.</string>
+    <string name="exit_no_reg_sensor">Unable to register sensors.</string>
+    <string name="exit_no_resolution">Device camera does not support preview resolution.</string>
+</resources>
